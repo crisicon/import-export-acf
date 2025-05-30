@@ -1,5 +1,6 @@
-===  Import/Export for Advanced Custom Fields ===
-Contributors: vanshbordia
+=== Import/Export for Advanced Custom Fields ===
+Contributors: crisicon
+Forked from: vanshbordia
 Tags: acf, import, export, advanced custom fields, csv
 Requires at least: 5.0
 Tested up to: 6.7
@@ -8,6 +9,7 @@ Requires PHP: 7.4
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
+This plugin is a maintained fork of the original project by vanshbordia. It enables import and export of ACF field groups, custom post types, and taxonomies using CSV, with enhancements and code reviews maintained by Cris Iconomu and team.
 Import and export ACF field groups, custom post types, taxonomies, and post data with hierarchical relationships in CSV format.
 
 == Description ==
