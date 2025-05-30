@@ -1,8 +1,5 @@
 <?php
-/**
- * Forked from: https://github.com/vanshbordia/import-export-acf
- * Original Author: Vansh Bordia
- * Maintained by: Cris Iconomu
+/*
  * Plugin Name: Import/Export for Advanced Custom Fields
  * Plugin URI: https://github.com/crisicon/import-export-acf/
  * Description: Import and export ACF fields, post types, taxonomies and related data
@@ -12,6 +9,10 @@
  * License: GPL v3 or later
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain: import-export-acf
+ * GitHub Plugin URI: https://github.com/crisicon/import-export-acf
+ * GitHub Branch: main
+ * Forked from: https://github.com/vanshbordia/import-export-acf
+ * Maintained by: Cris Iconomu
  */
 
 // Exit if accessed directly
