@@ -1,7 +1,10 @@
 <?php
 /**
+ * Forked from: https://github.com/vanshbordia/import-export-acf
+ * Original Author: Vansh Bordia
+ * Maintained by: Cris Iconomu
  * Plugin Name: Import/Export for Advanced Custom Fields
- * Plugin URI: https://vanshbordia.pages.dev/import-export-acf
+ * Plugin URI: https://github.com/crisicon/import-export-acf/
  * Description: Import and export ACF fields, post types, taxonomies and related data
  * Version: 1.0.0
  * Author: Vansh Bordia
